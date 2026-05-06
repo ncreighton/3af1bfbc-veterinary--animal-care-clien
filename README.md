@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,8 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://whop.com/veterinary-animal-care-client-crm-and-pipeline-tracker-notion-template)**
+**[Get Pro Version](https://buy.stripe.com/3cIaEX12De2M6xy5bucZb19)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cIaEX12De2M6xy5bucZb19)
+- [Buy on Whop](https://whop.com/veterinary-animal-care-client-crm-and-pipeline-tracker-notion-template)
 
